@@ -1,1 +1,106 @@
 <!-- eResume style sheet -->
+body {	font-family: 'Galada', cursive;
+			font-size: 48px;
+			background-image: url("https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR461717/file_manager/Sunset_2.jpg");
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			background-size: cover;
+			}
+	.button {	background-color: Sienna;
+				font-family: 'Arial';
+				border: none;
+				color: white;
+				width: 70px;
+				padding: 3px;
+				text-align: center;
+				display: inline-block;
+				font-size: 12px;
+				margin: 4px 2px;
+				cursor: pointer;
+				z-indexs: 1;}
+			
+	.button:hover { display: inline-block;
+					min-width: 73px;
+					padding: 4px;
+					box-shadow: 8px 8px 8px 0px #999;
+					z-indexs: 2;}
+		
+	.menubar {	width: 1000px;
+				background-color: BurlyWood;
+				font-family: 'Galada', cursive;
+				font-size: 20px;
+				padding-left: 20px;
+				padding-right: 20px;
+				float: left;}
+		  		 
+	.bgpic {width: 100%;}
+			
+	.contactqr {width: 7%;
+				float: right;
+				overflow: hidden;}
+				
+	footer{font-size: 12px;
+			 font-family: 'Arial';
+			 position: absolute;
+			 bottom: 0px;}
+	.left {float: left;}
+		   
+	.main-panel {width: 1000px;
+				 height: 100%;
+				 background-color: snow;
+				 font-size: 15px;
+				 font-family: 'Orbitron', sans-serif;
+				 overflow: scroll;
+				  padding: 20px;}
+					
+	.main-header {width: 1000px;
+				  height: 100px;
+				  background-color: wheat;
+				  font-family: 'Galada', cursive;
+				  font-size: 60px;
+				  text-shadow: 4px 4px 4px #aaa;
+				  floats: left;
+				  clear: both;
+				  padding: 20px;}
+					
+	.me {	font-family: 'Philosopher', sans-serif;
+			font-size: 17px;
+			text-align: center;
+			width: 30%;
+			float: left;
+			overflow: hidden;}
+		 
+	.resume {	width: 33%;
+				float:left;
+				padding-left: 20px;
+				overflow: hidden;}
+		 
+	.right {float: right;}		 
+	.summary1 {	text-indent: 30px;
+				font-family: 'Cormorant+Garamond', serif;
+				font-size: 15px;}
+			 
+	.summary2 {	font-family: 'Cormorant+Garamond', serif;
+				font-size: 15px;}
+			 
+	.summary3 {	font-family: 'Cormorant+Garamond', serif;
+				font-size: 15px;
+				indent: 30px;}			 
+	
+	.title {	font-family: 'Cinzel', serif;
+				font: bold;
+				font-size: 20px;}
+	
+	.unit {	font-family: 'Cormorant+Garamond', serif;
+			font-size: 17px; }
+	
+	.wrapper {	width: 1000px;
+				height: 600px;
+				float: center;
+				margin: 0px auto;}
+				
+	.profile {	display: inline-block;
+				z-index: 2;
+				position: absolute;
+				transform!: translateX(-322px);
+				width: 116px;}
