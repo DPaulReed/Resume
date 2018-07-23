@@ -1,9 +1,7 @@
 # e-Resume
 
+
 ## Sprint 3 - The Plan
-
-
-**Platform and Language:** Windows/Linux using PHP
 
 ```
 **Discription:** This project is to build a resume webpage while learning web development skills.  
@@ -12,6 +10,7 @@ webpage will be learning PHP for server-side and backend web development. CSS st
 will also be incorporated into to webpage.
 ```
 
+**Platform and Language:** Windows/Linux using PHP
 
 **Github User:** DPaulReed
 
@@ -22,8 +21,9 @@ will also be incorporated into to webpage.
 **Trello:** https://trello.com/donaldreed 
 
 
-
+```
 ## Project Timeline:
+```
 *7/12*		Code writem for the Header and Footer as separate PHP files.
 
 *7/13*		Home page started.
