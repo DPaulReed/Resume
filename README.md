@@ -1,4 +1,4 @@
-#e-Resume
+# e-Resume
 
 Sprint 3
 The Plan
@@ -19,7 +19,7 @@ Trello: https://trello.com/donaldreed
 
 
 
-#Project Timeline:
+# Project Timeline:
 7/12		Code writem for the Header and Footer as separate PHP files.
 
 7/13		Home page started.
