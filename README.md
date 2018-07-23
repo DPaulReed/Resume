@@ -21,7 +21,7 @@ will also be incorporated into to webpage.
 **Trello:** https://trello.com/donaldreed 
 
 
-```
+
 ## Project Timeline:
 ```
 *7/12*		Code writem for the Header and Footer as separate PHP files.
@@ -33,6 +33,6 @@ will also be incorporated into to webpage.
 *7/21*    Created separate directories for images, style sheets, and PHP code.
 
 *7/22*    Composed and coded contact page. Continued home page.
-
+```
 
 
