@@ -11,6 +11,7 @@ will also be incorporated into to webpage.
 ```
 
 
+## Links
 ```
 **Platform and Language:** Windows/Linux using PHP
 
@@ -24,7 +25,7 @@ will also be incorporated into to webpage.
 ```
 
 
-## Project Timeline:
+## Project Timeline
 ```
 *7/12*	Code writem for the Header and Footer as separate PHP files.
 
