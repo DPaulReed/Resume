@@ -5,7 +5,9 @@
 
 **Platform and Language:** Windows/Linux using PHP
 
-'''**Discription:** This project is to build a resume webpage while learning web development skills.  The project will include an actual resume for future employers to review.  The main focus of the webpage will be learning PHP for server-side and backend web development. CSS styles and JavaScript will also be incorporated into to webpage.'''
+'''
+**Discription:** This project is to build a resume webpage while learning web development skills.  The project will include an actual resume for future employers to review.  The main focus of the webpage will be learning PHP for server-side and backend web development. CSS styles and JavaScript will also be incorporated into to webpage.
+'''
 
 
 **Github User:** DPaulReed
