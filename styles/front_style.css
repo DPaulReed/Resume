@@ -1,0 +1,214 @@
+h1 {text-shadow: 0 1px 0 blue,
+				0 2px 0 lightskyblue,
+				0 3px 0 skyblue,
+				0 4px 0 lightblue,
+				0 5px 0 powderblue,
+				0 6px 1px lightcyan,
+				0 0 5px aqua,
+				0 1px 3px white,
+				0 20px 20px gray;
+				overflow: hidden;
+				font-family: 'Orbitron', sans-serif;
+				font-size: 60px;
+				float: left;
+				position: absolute;
+				top: 150px;
+				left: 360px;
+				transform:perspective(50%) skewY(5deg);
+				z-index: 3;
+}
+
+button {
+	overflow: hidden;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 30px;
+	float: left;
+	position: absolute;
+	top: 300px;
+	left: 360px;
+	transform:perspective(50%) skewY(5deg);
+	z-index: 3;
+	background-color: paleturquoise;
+	border: none;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	z-index: 3;
+	transform:perspective(50%) skewY(4deg);}
+
+#layer1 {position: center;
+		perspective-origin: right;
+		overflow: hidden;}
+
+.bg{
+	transform:perspective(80%) rotateY(30deg) scale(.6);
+	z-index: 1;
+ 
+}
+
+
+.logo1 {  animation-name: slide1;
+    animation-delay: 5s;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+	position: absolute;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif; 
+	z-index: 2;
+	color: DeepSkyBlue;
+	}
+ .logo2 {
+	animation-name:  slide2;
+	animation-delay: 10s;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+	position: absolute;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif; 
+	z-index: 2;
+	color: DeepSkyBlue; 
+}
+ .logo3 {
+	animation-name: slide3;
+	animation-delay: 15s;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+	position: absolute;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif; 
+	z-index: 2;
+	color: DeepSkyBlue;
+	}
+	
+.ring1 {animation-name: halo1;
+		animation-duration: 20s;
+		background-image: url("../images/ring_1.png");
+		position: absolute;
+		top: 400px;
+		left: 1000px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+		}
+.ring2 {animation-name: halo2;
+		animation-duration: 30s;
+		background-image: url("../images/ring_2.png");
+		position: absolute;
+		top: 379px;
+		left: 980px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+		}
+.ring3 {animation-name: halo3;
+		animation-duration: 20s;
+		background-image: url("../images/ring_3.png");
+		position: absolute;
+		top: 341px;
+		left: 946px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+
+		}
+.ring4 {animation-name: halo4;
+		animation-duration: 10s;
+		background-image: url("../images/ring_4.png");
+		position: absolute;
+		top: 320px;
+		left: 924px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+
+		}
+.ring5 {animation-name: halo5;
+		animation-duration: 20s;
+		background-image: url("../images/ring_5.png");
+		position: absolute;
+		top: 307px;
+		left: 908px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+
+		}
+.ring6 {animation-name: halo6;
+		animation-duration: 40s;
+		background-image: url("../images/ring_6.png");
+		position: absolute;
+		top: 237px;
+		left: 837px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+
+		}
+.ring7 {animation-name: halo7;
+		animation-duration: 50s;
+		background-image: url("../images/ring_7.png");
+		position: absolute;
+		top: 185px;
+		left: 785px;
+		z-index:3;
+		transform: scale(.5);	animation-iteration-count: infinite;
+
+
+		}
+ 
+
+
+@keyframes slide1 {
+	0%   {transform: skewY(-15deg);opacity: 0; left:540px; top:1000px;}
+    50%  {opacity: 1; left:540px; top:475px; transform:scale(1) skewY(2deg);}
+	75%  {opacity: 0;}
+   100%  {transform: scale(.5); opacity: 0; left:1000px; top:475px;}
+ }
+ 
+
+@keyframes slide2 {
+	0%   {transform: skewY(-15deg);opacity: 0; left:540px; top:1000px;}
+    50%  {opacity: 1; left:540px; top:475px;transform:scale(1) skewY(2deg);}
+	75%  {opacity: 0;}
+   100%  {transform: scale(.5); opacity: 0; left:1000px; top:475px;}
+ }
+ 
+ @keyframes slide3 {
+	0%   {transform: skewY(-15deg);opacity: 0; left:540px; top:1000px;}
+    50%  {opacity: 1; left:540px; top:475px;transform:scale(1) skewY(2deg);}
+	75%  {opacity: 0;}
+   100%  {transform: scale(.5); opacity: 0; left:1000px; top:475px;}
+ }
+ 
+ @keyframes halo1{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+ 100%{transform: scale(.5) rotateZ(0deg);}
+ }
+ @keyframes halo2{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 100%{transform: scale(.5) rotateZ(360deg);}
+ }
+ @keyframes halo3{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 50%{transform: scale(.5) rotateZ(-15deg);}
+	 100%{transform: scale(.5) rotateZ(15deg);}
+ }
+ @keyframes halo4{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 100%{transform: scale(.5) rotateZ(0deg);}
+ }
+ @keyframes halo5{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 100%{transform: scale(.5) rotateZ(-360deg);}
+ }
+ @keyframes halo6{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 100%{transform: scale(.5) rotateZ(360deg);}
+ }
+ @keyframes halo7{
+	 0%  {transform: scale(.5) rotateZ(0deg);}
+	 100%{transform: scale(.5) rotateZ(-360deg);}
+ }

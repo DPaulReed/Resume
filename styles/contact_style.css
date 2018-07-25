@@ -1,0 +1,33 @@
+body { font-family: 'Galada', cursive;}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    resize: vertical;
+}
+
+input[type=submit] { background-color: maroon;
+					color: white;
+					padding: 10px 20px;
+					border: none;
+					border-radius: 5px;
+					cursor: pointer;
+}
+
+input[type=submit]:hover {background-color: brown;}
+
+
+.contact_form {
+    border-radius: 5px;
+    background-color: seashell;
+    padding: 20px;
+	position: center center;
+	width: 50%;
+	margin: auto;
+
+}
