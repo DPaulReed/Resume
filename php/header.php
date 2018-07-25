@@ -1,23 +1,25 @@
 <?php
 $message = "PHP is working";
 /*echo "<script type=\"text/javascript\"> alert(\"$message\"); </script>";*/
+
+echo "<div class=\"main-header\">";
+echo "<div class=\"resume\">";
+echo "eResume";
+echo "</div>";
+echo "<div class=\"me\">";
+echo "<strong>D o n a l d   R e e d</strong><br> ";
+echo "10780 Allen Drive<br>";
+echo "Pass Christian, MS  39571 US<br>";
+echo "Phone: 228-365-6512<br>";
+echo "Email: <a href=\"mailto:Donald.Reed@usm.edu\">Donald.Reed@usm</a><br>";
+echo "</div>";
+echo "<div><image class=\"profile\" src=\"../images/me.png\" /></div>";
+echo "<div>";
+echo "<image class=\"contactqr\" src=\"../images/contactqr.png\" />";
+echo "</div>";
+echo "</div>";
 ?>
-<div class="main-header">
-<div class="resume">
-eResume
-</div>
-<div class="me">
-<strong>D o n a l d   R e e d</strong><br> 
-10780 Allen Drive<br>
-Pass Christian, MS  39571 US<br>
-Phone: 228-365-6512<br>
-Email: <a href="mailto:Donald.Reed@usm.edu">Donald.Reed@usm</a><br>
-</div>
-<div><image class="profile" src="../images/me.png" /></div>
-<div>
-<image class="contactqr" src="../images/contactqr.png" />
-</div>
-</div>
+
 <div class="menubar">
 <button class="button"  onclick="location.href='#Ex'">Experience</button>
 <button class="button"  onclick="location.href='#Ed'">Education</button>
