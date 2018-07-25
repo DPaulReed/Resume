@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Galada|Orbitron|Cinzel|Cormorant+Garamond|Philosopher" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <title>Donald Reed - Resume</title>
+</head>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<body background="images/wallpaper.jpg"> 
+	<div class="wrapper"> 
+	<?php include "php/header.php"; ?>	    
+			
+			
+		
+      <div class="main-panel">
+	
+		
+<p><h3 id="Experience" class="title"><a id="Ex">Work Experience:</a></h3></p>
+	
+<p class="unit"><b>US Coast Guard <span class="right">08/2015 - 09/2017</span></b><br>
+Base New Orleans Electronics Support Detachment<br>
+1790 Saturn Blvd New Orleans, LA 70129    United States<br>
+	
+<i>Supervisor, Senior Chief Electronics Technician, E-8</i><br></p>
+<p class="summary1">Masterfully organized, coordinated, and supervised the maintenance, repair, and installation of navigation, and communication electronics. Arranged Coast Guard ship and land based unit mission support through direct communication with area, district, and unit commands. Directly supervised civilian contractor and personnel during scheduled electronics suite installation, maintenance, and upgrades while acting as technical advisor, quality assurance, and liaison. Provided detailed training and supervision for the work performed by shop personnel. Provided technical oversight for organizational programs associated with business processes, resource management (facilities, equipment, budget, stock control and infrastructure), organizational analysis, systems management, strategic planning, metrics and training. 
+
+Provided technical guidance in the development of program goals, plans, policies, and procedures and work plans dealing with the development of installation strategic visions, evaluation of overall logistics process effectiveness, modernization, and transforming current business operations and support systems, and modifying logistics strategic planning. Established, developed, and maintained effective working relationships with other organizational and installation personnel, counterparts at higher headquarters, DoD, other agencies and local, state and federal government counterparts as well as commercial and private organizations.
+
+Directed, coordinated, and oversaw work through subordinate supervisors. Advised supervisors and managers on administrative policies and procedures, technical problems, goals, work priorities and methods. Created flow charts and other management tools to determine areas in which improvements are required. Maintained a continuous surveillance of operations to determine and ensure proper organization alignment and distribution of personnel. Selected candidates for subordinate non-supervisory positions and recommended selections for subordinate supervisory positions. Explained performance expectations to subordinate supervisors and employees directly supervised and provided regular feedback on strengths and weaknesses. Appraised performance of subordinate supervisors and other employees directly supervised and served as reviewing official on evaluation of non-supervisory employees rated by subordinate supervisors and employees. Heard and resolved group grievances and employee complaints referred by subordinate supervisors and employees. 
+
+Evaluated methods and techniques concerning the efficiency and effectiveness of program operations to make improvements and detect deficiencies. Established, revised, or reviewed policies, procedures, mission objectives, and organizational design for the staff, as necessary, to eliminate issues to mission accomplishment, promote team building, implement quality improvements, or in response to concerns with regulatory compliance and customer requirements. 
+</p>
+
+<hr>
+	
+<p class="unit"><b>U.S. Coast Guard <span class="right">04/2012 - 08/2015</span></b><br>
+Communications Station Boston<br> 
+4700 Greenway Road, Forestdale, MA 02644    United States<br>
+	
+<i>Officer In Charge, Senior Chief Electronics Technician, E-8</i><br></p>
+<p class="summary1"> 
+Responsible for Coast Guard High Frequency (HF) and Medium Frequency (MF) Communications in support of Coast Guard missions encompassing Security, Search and Rescue, Fisheries Enforcement, and Counter Narcotic Interdiction for the North Atlantic including its coast, tributaries, and waterways. Provided effective management oversight for a $16.6M facility encompassing maintenance, physical security, personnel property, operations, and civil engineering. Orchestrated the day-to-day operations of electronics and communications facility, administration offices, barrack rooms, engineering shops, galley, 542 acres and twenty-two antenna towers. Flawlessly managed a yearly budget of $150K. 
+
+Analyzed and planned fiscal, manpower, doctrine, instruction and equipment requirements in support of large scale training initiatives. Provided sound advice and recommendations as to appropriate strategies, priorities, resource requirements, and equipment/personnel allocations necessary to accomplish objectives. Executed internal management support services to program cost monitoring, annual fiscal planning, and development of annual work-plans, for various departments. Performed organization structure, workforce and space utilization for procedural and relationship aspects of the office, to improve the efficiency of internal administrative operations.
+
+Participated in command investment reviews, budget planning, compilation, and funds execution. Directed departmental financial staff services. Engaged in command and departmental strategic plan formulation, development, and execution. Performed budget formulation work involving preparation of detailed analyses of annual and multi-year budget estimates for assigned organizations/programs into a consolidated budget request. Coordinated budgetary financing for new programs and activities of a substantive nature. Compiled, consolidated, interpreted, and summarized budgetary data for preparation of supportive documentation and budget estimates accurately and in a timely manner.
+
+Supervised all work involving precision planning, estimating, inspecting, and contracting of maintenance, repair, alterations, improvements, and construction of station facilities (buildings, roofing systems, roads, other pavements, drainage systems, signs and general grounds). Inspected and validated work requests. Assessed damage to government property. Accepted or rejected work performed by government employees, private contractors, or military units. Initiated projects to correct facility deficiencies and provided Annual inspection Summary. Ensured training and qualifications of contract personnel for assigned tasks. Conducted oversight of contracted work ensuring strict facility maintenance standards and minimizing disruption of services. Inspected maintenance projects and contractor performance for compliance with statements of work or other agreements. Implemented and evaluated programs to manage safety risks, fire safety risks, facility response to emergencies, and to risk management associated with physical security, hazardous materials, and waste. Compiled utility information for the monthly Utilities Cost Analysis Report (UCAR). Provided utility budgets and cost controls. Prepared forecasts for engineering staff regarding utility distribution system planning and budget preparation. Planned and managed energy saving projects. Ensured environmental and safety practices were adhered to.
+
+Responsible for the training, development, welfare and evaluation of 22 enlisted personnel. Provided subordinate supervisors and staff with direction and advice regarding policies, procedures, and guidelines. Reviewed and structured the organization to optimize use of resources and maximize efficiency and effectiveness. Trained subordinate supervisors on a wide range of management processes and administrative techniques. 
+
+Direct liaison with federal, state and local enforcement during routine day-to-day operations. Managed  transition of manned Communications Station Boston to a remotely operated radio communication station.  Researched, coordinated, and contracted replacement of diesel emergency generator with natural gas powered emergency generator saving the coast guard $12K per year in fuel costs.
+</p>
+
+<hr>
+	
+<p class="unit"><b>U.S. Coast Guard <span class="right">07/2008 - 04/2012</span></b><br>
+Communications Station New Orleans<br>
+4023 Main Street, Belle Chasse, LA 70037    United States<br>
+	
+<i>Executive Petty Officer, Senior Chief Electronics Technician, E-8</i><br></p>
+<p class="summary1"> 
+Directly responsible for the maintenance and administration of Coast Guard High Frequency (HF) and Medium Frequency (MF) Communications in support of Coast Guard missions encompassing Security, Search and Rescue, Fisheries Enforcement, and Counter Narcotic Interdiction for Gulf of Mexico including its coast, tributaries, and waterways. Provided effective management oversight for a $66.7M facility encompassing maintenance, physical security, personnel property, operations, and civil engineering. Orchestrated the day-to-day operations of electronics and communications facility, administration offices, barrack rooms, engineering shops, galley, 2054 acres and nineteen antenna towers. Masterfully managed the training, development, welfare and evaluation of 25 personnel. Meticulously managed a $160K budget.
+
+Provided leadership and technical guidance as to appropriate course of action to take, priorities, resource requirements, and equipment/personnel allocations to accomplish objectives. Identified and reported significant issues regarding assigned actions and identified specified and implied tasks to accomplish mission. Reviewed and structured center activities to optimize use of resources and maximize efficiency and effectiveness of the organization. Demonstrated exceptional time management, task delegation, conflict resolution, performance management, and diversity skills; effectively handled a diverse range of behavior issues.
+
+Reported to the senior executive officer on the status of matters pertaining to the efficient operation of the command. Represented the senior executive officer at command meetings and councils, and when conducting tours through unit areas. 
+
+Administered and managed the Occupational Safety and Health Program. Planned investigations, analyzed mishaps and hazardous conditions to determine origin, causes, and contributing elements and prepared written evaluation reports concerning findings. Conducted comprehensive Management Assist Visits to recommend improvements and better prepare personnel for evaluation. Conducted timely assessments of work center activities in accordance with Occupational Health and Safety regulations (29-CFR-1926 and 1910) for the safe performance of mission related duties. Investigative efforts included the inspection of work-related personal protective equipment, the condition of work areas, the safety of work practices, and the degree of compliance with safety program. Through inspections, provided expert advice and counsel on the development of safe operation of equipment, identification of common work associated hazards as well as sound egress procedures. Independently performed a full range of duties in both industrial, electronic, and communications operations such as, the detection and correction of unsafe conditions in vehicle electronic maintenance shops, engineering and facilities shops, hazardous materials handling and storage areas, and offices. Evaluated and analyzed safety standards and data such as accident frequency, causal factors, survey reports, communications operations, and determined effective corrective and countermeasure procedures. 
+
+Compiled and analyzed mishap data, identified trends, and developed recommendations to eliminate mishaps. Generated detailed reports containing recommendations for changes in operating procedures, local regulations, and use of protective devices. Utilized thorough knowledge of safety and occupational health laws, regulations, principles, theories, practices, and procedures in advising on or resolving technical matters dealing with OSHA requirements. Developed and implemented programs to reduce the frequency, severity, cost of accidents and occupational illnesses. Analyzed or evaluated new and existing jobs, processes, products, or other systems for compliance with established safety and occupational health policies or standards and to identify potential new hazards. Used effective oral and written communication skills in the presentation of status reports and responding to inquiries from various sources and presenting educational and other training briefings. 
+</p>
+
+	
+<hr>	
+	
+	
+	
+<h3 class="title"><a id="Summary">PROFESSIONAL SUMMARY:</a><br></h3>
+<p class="summary1"> 
+Holds current U.S. Government Secret Security Clearance. Exceptional team leader with successful experience and comprehensive knowledge in all facets of Communication System administration, engineering, safety and occupational health program administration and management, safety engineering, industrial safety, facility operations and maintenance management, project planning, scheduling and management, quality assurance/control, hazardous materials response and management, physical security program administration, human resources management, staff leadership and development, and public affairs and relations. Ability to apply critical judgment and the rules of reason to develop the hypotheses necessary to explain the facts. Offers a rare combination of superior interpersonal and human relations skills coupled with the unique ability to coordinate group efforts toward attainment of common goals. Knows and understand worth and dignity of subordinates and successfully integrate this human element in daily leadership. 
+
+Possess a broad technical knowledge in building components, systems, and facility functions. In-depth knowledge of standards, procedures, methods, and techniques applicable to construction projects including construction equipment, materials, and utility systems; the adequacy and practicability of plans, and specifications that can involve multiple engineering disciplines and frequent changes in design or other engineering requirements. Proven ability to interpret blueprints, technical manuals, building codes, engineering plans, specifications, and drawings, as well as prepare and deliver appropriate reports and summaries to engineering personnel. In depth knowledge of the principles, techniques, and methodology of housing management and apply them to scheduling and coordinating operation and efficient use of government quarters and facilities. 
+
+Expert knowledge of shore side and ship electronic systems, management and organization principles and theories, including standardized administrative practices and procedures common to organizations, such as those pertaining to areas of responsibility, channels of communication, delegation of authority, routing of correspondence, filing systems, and storage of files and records; analytical and evaluative techniques to the identification, consideration, and resolution of issues or problems of a procedural or factual nature; financial, budget, resource management practices and principles, and analytical and evaluative methods and techniques; safety, security, and personnel management. 
+</p>
+
+<hr>
+
+<h3 class="title"><a id="Skills">Skills:</a><br></h3>
+<p class="summary2">Microsoft Office Suite (Word, Power Point, Excel, and Access)<br>
+Web Design/Programming (HTML, CSS, Javascript, PHP)<br>
+Web Design Platforms (Megento 2)<br>
+Software and Application Programming (Java, C++, Visual Basic)<br>
+Electronic Circuit Design and Repair<br>
+</p>
+
+<hr>	
+
+<h3 id="Education" class="title"><a id="Ed">Education:</a><br></h3>		
+<p class="summary2">
+<b>Cape Cod Community College</b><span class="right">Associate of Arts, Computer Science - May 2017</span><br>
+2240 Iyannough Rd, West Barnstable, MA 02668<br>  
+United States<br>
+</p>
+	
+	
+<p class="summary2">
+<b>Mississippi Gulf Coast Community College</b><span class="right">Associate of Arts, Computer Science - May 2018</span><br>
+2226 Switzer Rd, Gulfport, MS 39571<br>  
+United States<br>
+</p>
+	
+<p class="summary2">
+<b>Pass Christian High School</b><span class="right">High School Diploma - June 1986</span><br>
+720 W North St, Pass Christian, MS 3957<br>
+United States<br>
+</p>
+
+	
+<hr>
+	
+
+<h3 id="Training" class="title"><a id="Train">Job Related Training:</a><br></h3>
+<span class="summary2"><b>U.S. Coast Guard:</b><br>
+<ul>
+	<li>Chief Petty Officer Academy, 225-hrs</li>
+	<li>Officer in Charge/Executive Petty Officer, 80-hrs</li>
+	<li>Military Civil Rights, 8-hrs</li>
+	<li>Sexual Harassment Prevention, 8-hrs</li>
+	<li>Rape and Sexual Assault Prevention, 8-hrs</li>
+	<li>Suicide Prevention, 8-hrs,</li> 
+	<li>Critical Incident Stress Management, 8-hrs</li>
+	<li>Substance Abuse Free Environment Awareness, 8-hrs</li> 
+	<li>Radiation Level 1, 8-hrs</li>
+	<li>National Electric Code, 16-hrs</li>
+	<li>COMSEC Maintenance, 80-hrs</li>
+	<li>AN/UPX-28 IFF Transponder Maintenance, 128-hrs</li>
+	<li>AN/SPS-73 Maintenance and Repair, 32-hrs</li>
+	<li>SCCS Maintenance, 32-hrs</li>
+	<li>SCCS Management, 40-hrs</li>
+	<li>WMEC-270 Optical Surveillance, 128-hrs</li>
+</ul></span>
+
+<span class="summary2"><b>Department of Homeland Security:</b><br>
+<ul>
+	<li>ICS-100, 200, 700 and 800</li>
+</ul></span>
+	
+
+<span class="right"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="donald-reed-23480315a"><a class="LI-simple-link" href='https://www.linkedin.com/in/donald-reed-23480315a?trk=profile-badge'>Donald Reed</a></div></span>
+	
+</div></div>
+<footer>Background photo credit: <a href="http://bdfjade.com/">BDFJade.com</a>
+</footer>
+</body>
+
+
+</html>
