@@ -153,8 +153,7 @@ United States<br>
 <span class="right"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="donald-reed-23480315a"><a class="LI-simple-link" href='https://www.linkedin.com/in/donald-reed-23480315a?trk=profile-badge'>Donald Reed</a></div></span>
 	
 </div></div>
-<footer>Background photo credit: <a href="http://bdfjade.com/">BDFJade.com</a>
-</footer>
+<?php include "php/footer.php"; ?>	    
 </body>
 
 
